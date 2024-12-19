@@ -15,8 +15,8 @@ This project is a video processing application that uses face detection and vari
    ```bash
    conda create -n face_centered_stretch python=3.10
    conda activate face_centered_stretch
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/yileiCao/face_centered_video_stretch
+   cd face_centered_video_stretch
    ```
 
 2. Install the required packages:
